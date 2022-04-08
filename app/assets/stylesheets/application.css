@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ 
+ header > p {
+     margin: 33px;
+     color: green;
+ }
+ 
+ div {
+     margin:33px;
+ }
+ 
+ 
